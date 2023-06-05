@@ -1,0 +1,24 @@
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: transparent;
+    background-size: cover;
+}
+.pic{
+    height: 50px;
+    width: 50px;
+}
+.para{
+    color: white;
+    font-weight: bolder;
+    font-family: fantasy;
+    font-size: larger;
+}
+.container{
+    display: flex;
+    max-width: 70%;
+    flex-wrap: wrap;
+}
